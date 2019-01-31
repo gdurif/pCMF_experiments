@@ -1,0 +1,3 @@
+Directory for local installation of any required Python packages (mainly ZIFA)
+
+Installations are done in Python virtual environment.

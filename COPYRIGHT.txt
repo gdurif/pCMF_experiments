@@ -1,0 +1,7 @@
+Copyright (c) [2019] [Ghislain DURIF] 
+
+Applies to all files except the ones located in the 'third_party_src' sub-directory.
+
+Licensing: all files except the ones located in the 'third_party_src' sub-directory 
+are distributed under the CECILL v2.1 license. You can check the license agreement
+in the './LICENSE.txt' file.

@@ -1,0 +1,5 @@
+R_LIBS="/path/to/pCMF_experiments/.R_libs"
+R_LIBS_USER="/path/to/pCMF_experiments/.R_libs"
+DATADIR="/path/to/pCMF_experiments/data"
+RESDIR="/path/to/pCMF_experiments/result"
+NCORE=1
