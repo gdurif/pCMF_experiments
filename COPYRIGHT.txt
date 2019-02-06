@@ -1,7 +1,9 @@
 Copyright (c) [2019] [Ghislain DURIF] 
 
-Applies to all files except the ones located in the 'third_party_src' sub-directory.
+Applies to all files except the ones located in the 'third_party_src' and 'data/single_cell' 
+sub-directories, which belong to the respective authors of the respective softwares 
+or data.
 
-Licensing: all files except the ones located in the 'third_party_src' sub-directory 
-are distributed under the CECILL v2.1 license. You can check the license agreement
-in the './LICENSE.txt' file.
+Licensing: all files except the ones located in the 'third_party_src' and 'data/single_cell' 
+sub-directories are distributed under the CECILL v2.1 license. You can check the license 
+agreement in the './LICENSE.txt' file.
