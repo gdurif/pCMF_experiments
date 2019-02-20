@@ -15,7 +15,7 @@ source(file.path(PROJDIR, "experiment",
 
 ## parameters
 ncomp <- 2
-nrep <- 1
+nrep <- 10
 dataset <- "Baron2016"
 
 presel <- TRUE #c(TRUE, FALSE) # pre-selection ?

@@ -12,7 +12,7 @@ source(file.path(PROJDIR, "experiment",
 
 ## parameters
 ncomp <- 2
-nrep <- 1
+nrep <- 10
 dataset <- "silver"
 tag <- c("1", "2", "2b", "3", "3b", "4", "5")
 id <- 7
