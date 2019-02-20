@@ -1,6 +1,6 @@
 # Experiments related to pCMF development and evaluation
 
-In this repository, you can find the codes and datasets that were used to write [1]
+In this repository, you can find the codes and datasets that were used to write [1].
 
 The pCMF package is available here: <https://gitlab.inria.fr/gdurif/pCMF>
 
@@ -23,7 +23,7 @@ agreement in the './LICENSE.txt' file.
 
 ## CONTACT
 
-If you encounter any issue, you can contact us at <gd DOT dev AT libertymail DOT net>
+If you encounter any issue, you can contact us at 'gd DOT dev AT libertymail DOT net'.
 
 
 ## HOW TO USE
